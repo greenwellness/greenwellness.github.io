@@ -1,0 +1,8 @@
+---
+layout: page
+title: testing textile
+---
+
+- coffee := Hot and black
+- tea := Also hot, but a little less black
+- milk :=
