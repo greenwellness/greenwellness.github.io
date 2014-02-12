@@ -1,0 +1,38 @@
+---
+layout: page
+title: LEESMIJ
+tags: [documentatie, handleiding, help]
+categories: [doc, man]
+---
+
+h1. greenwellness.github.io
+
+Dit is de @LEESMIJ@ pagina voor GW(Green Wellness).
+
+Publieke experimenten in front-end zaken plus allerlei andere activiteiten die vanaf GH(GitHub) wel erg makkelijk gemaakt worden. Een voorbeeld is spelen met de Jekyll statische website generator, gemaakt in Ruby en omarmd bij het maken van GHP(GitHub Pages of gh-pages).
+
+h2. Workflow / branching model
+
+Deze REPO(Repository) maakt gebruik van een gestructureerde workflow bij het publiceren en structureren van verschillende bomen aan broncode. Deze workflow wordt aangeduid met `git-flow` wat tevens het opdrachtregel commando is om deze functionaliteit behorende bij het maken, naamgeven, indelen en publiceren van software code. Meer informatie kun je vinden in het oorspronkelijk gepubliceerde artikel "A successful Git branching model":http://nvie.com/posts/a-successful-git-branching-model/
+
+
+h3. Voorbeelden textile
+
+I seriously *{color:red}blushed*
+when I _(big)sprouted_ that
+corn stalk from my
+%[es]cabeza%.
+
+NOTE: Iets op te merken?
+
+p=. centered
+
+h4. Bronnen
+
+https://github.com/nvie/gitflow/wiki/Command-Line-Arguments (version 0.4.1)
+
+h5. Opdrachten
+
+Site generator @jekyll new <sitename>@ en @jekyll serve --watch@.
+
+2009-2014 © Green Wellness® en Wellnessbon®

@@ -1,0 +1,31 @@
+---
+layout: post
+categories: 
+  - testing
+  - new
+title: Een nieuw begin
+tags: 
+  - test
+  - blog
+  - post
+published: true
+---
+
+h1. YAML Front Matter (YFM)
+
+Wat is YAML (.yml)?
+
+
+Hierboven staat:
+bc..
+---
+layout: post
+categories: [testing, new]
+title: Een nieuw begin
+tags: [test, blog, post]
+---
+
+p. Dat was een voorbeeld van de meta-data gevonden in dit document.
+
+
+h2. Dit is
